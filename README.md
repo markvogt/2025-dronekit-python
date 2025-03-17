@@ -1,4 +1,17 @@
-# DroneKit Python
+# MV JOURNAL 
+
+### 2025 03 13 MV: 
+- RESEARCHED | FORKED | CLONED project to XFR laptop (using for 2023 UTC project)
+- DISCOVERED that this dronekit-python is all but ABANDONED since about 2019 :-O NO IDEA WHY
+- DISCOVERED that MUCH code is  now woefully outdated and UNSUPPORTED that it now represents a RISK to USE
+- UPDATED README file
+- KEEPING the repo but STOPPING ALL WORK TO RESURRECT IT !!!!!!!
+- MV 
+
+
+# ORIGINAL README FILE (circa 2016?)
+
+## DroneKit Python
 
 ![dronekit_python_logo](https://cloud.githubusercontent.com/assets/5368500/10805537/90dd4b14-7e22-11e5-9592-5925348a7df9.png)
 
